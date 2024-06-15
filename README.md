@@ -7,31 +7,31 @@ Welcome to my GitHub profile! 🌟
 ### Skills:<br />
 <br />
 
-Programming Languages<br />
+Programming Languages:<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,py,swift)](https://skillicons.dev)
 <br />
 <br />
 
-Frontend Technologies<br />
+Frontend Technologies:<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,jquery,pug)](https://skillicons.dev)
 <br />
 <br />
 
-Backend Technologies<br />
+Backend Technologies:<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql)](https://skillicons.dev)
 <br />
 <br />
 
-Operiting Systems<br />
+Operiting Systems:<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple)](https://skillicons.dev)
 <br />
 <br />
 
-Other tools & Technologies<br />
+Other tools & Technologies:<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,stackoverflow)](https://skillicons.dev)
 <br />
