@@ -4,8 +4,8 @@ Welcome to my GitHub profile! 🌟
 <a href="https://fawzymoawad.com/">My Personal Website</a><br />
 <a href="#">NorthWest Tech</a><br />
 <br />
-or in Social Media :<br />
-<a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
+or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
+<br />
 ### Skills:<br />
 <br />
 
