@@ -33,25 +33,6 @@ Operiting Systems<br />
 
 Other tools & Technologies<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,npm,wordpress,aws,docker,dotnet,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,stackoverflow)](https://skillicons.dev)
 <br />
 <br />
-
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
