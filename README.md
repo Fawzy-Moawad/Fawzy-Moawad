@@ -3,7 +3,9 @@ Welcome to my GitHub profile! 🌟
 #### Contact With Me At :
 <a href="https://fawzymoawad.com/">My Personal Website</a><br />
 <a href="#">NorthWest Tech</a><br />
-
+<br />
+or in Social Media :<br />
+<a href="www.linkedin.com/in/fawzy-moawad">LinkdIn</a><br />
 ### Skills:<br />
 <br />
 
@@ -33,6 +35,6 @@ Operiting Systems:<br />
 
 Other tools & Technologies:<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,vim,stackoverflow,codepen,discord,notion,ableton)](https://skillicons.dev)
 <br />
 <br />
