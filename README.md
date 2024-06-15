@@ -7,13 +7,17 @@ Welcome to my GitHub profile! 🌟
 ### Skills:<br />
 <br />
 Programming Languages<br />
-
+<br />
+<br />
 Frontend Technologies<br />
-
+<br />
+<br />
 Backend Technologies<br />
-
+<br />
+<br />
 Other tools & Technologies<br />
-
+<br />
+<br />
 
 
 
