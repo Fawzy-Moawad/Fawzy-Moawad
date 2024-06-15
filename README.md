@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Fawzy Moawad !   
 Welcome to my GitHub profile! 🌟
 #### Contact With Me At :
-<a href="https://fawzymoawad.com/">My Personal Website</a>
-<a href="#">NorthWest Tech</a>
+<a href="https://fawzymoawad.com/">My Personal Website</a>--
+<a href="#">NorthWest Tech</a>--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
