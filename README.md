@@ -1,8 +1,5 @@
-## Hi there 👋
-
-
-**Fawzy-Moawad/Fawzy-Moawad** is a ✨Softwear Enginner ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋 I'm Jacob Somer!   
+Welcome to my GitHub profile! 🌟
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
