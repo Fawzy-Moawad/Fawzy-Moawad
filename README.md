@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🌟
 Programming Languages<br />
 <br />
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+(https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
 <br />
 Frontend Technologies<br />
 <br />
