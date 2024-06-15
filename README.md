@@ -21,13 +21,13 @@ Frontend Technologies<br />
 
 Backend Technologies<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sass,js,ts,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql)](https://skillicons.dev)
 <br />
 <br />
 
 Operiting Systems<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple)](https://skillicons.dev)
 <br />
 <br />
 
