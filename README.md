@@ -15,7 +15,7 @@ Programming Languages :<br />
 <br />
 <br />
 
-Frontend Technologies :<br />
+-Frontend Technologies :<br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,jquery,pug)](https://skillicons.dev)
 <br />
