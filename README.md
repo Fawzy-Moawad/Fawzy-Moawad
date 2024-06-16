@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🌟
 <br />
 or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
 <br />
-### Skills:<br />
+### Skills :<br />
 <br />
 
 Programming Languages :<br />
