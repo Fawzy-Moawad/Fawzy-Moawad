@@ -2,7 +2,6 @@
 Welcome to my GitHub profile! 🌟
 #### Contact With Me At :
 <a href="https://fawzymoawad.com/">Fawzy Moawad</a><br />
-<a href="#">NorthWest Tech</a><br />
 <br />
 or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
 <br />
