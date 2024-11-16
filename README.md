@@ -28,7 +28,7 @@ Backend Technologies :<br />
 
 Operiting Systems :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,mac)](https://skillicons.dev)
 <br />
 <br />
 
