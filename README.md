@@ -28,12 +28,12 @@ Backend Technologies :<br />
 
 Operiting Systems :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,mac)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows)](https://skillicons.dev)
 <br />
 <br />
 
 Other tools & Technologies :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,vim,stackoverflow,codepen,discord,notion,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,git,github,githubactions,gitlab,npm,yarn,wordpress,aws,docker,dotnet,vim,stackoverflow,codepen,discord,notion,obsidian,ableton)](https://skillicons.dev)
 <br />
 <br />
