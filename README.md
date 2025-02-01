@@ -5,7 +5,8 @@
 
   <p align="center">
     Welcome to my GitHub profile! 🌟 
-    <div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+    <div><iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="100%"></iframe></div>
   </p>
 
   <h3 align="center">
