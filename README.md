@@ -4,7 +4,7 @@ Welcome to my GitHub profile! 🌟
 <p align="center">
   <a href="https://fawzymoawad.com/">Fawzy Moawad</a><br />
   <br />
-  or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
+  or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a>
 </p>
 <br />
 
@@ -12,12 +12,12 @@ Welcome to my GitHub profile! 🌟
 <br />
 
 <p align="center">
-  Programming Languages :<br />
-  <br />
+  Programming Languages :
+  <br/>
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift)](https://skillicons.dev)
 </p>
-<br />
-<br />
+<br/>
+<br/>
 
 <p align="center">
   Frontend Technologies :<br />
