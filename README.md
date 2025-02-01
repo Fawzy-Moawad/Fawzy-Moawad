@@ -5,7 +5,7 @@
 
   <p align="center">
     Welcome to my GitHub profile! 🌟 
-    <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA.gif" width="5%">
+    <img src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="5%">
   </p>
 
   <h3 align="center">
