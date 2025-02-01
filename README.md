@@ -34,6 +34,11 @@ Operiting Systems :<br />
 
 Other tools & Technologies :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,stackoverflow,codepen,raspberrypi,discord,notion,obsidian,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,vercel,stackoverflow,codepen,raspberrypi,discord,notion,obsidian,ableton)](https://skillicons.dev)
 <br />
 <br />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  <a href="https://github.com/AkramKhattab?tab=repositories">Check out my repositories to see what I've been up to!</a>
+</p>
