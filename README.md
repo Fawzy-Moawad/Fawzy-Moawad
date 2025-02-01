@@ -79,6 +79,9 @@
   </p>
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
   <h5 align="center">Profile Views</h5>
   <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg?"  />
