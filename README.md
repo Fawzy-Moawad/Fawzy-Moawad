@@ -7,6 +7,10 @@
     Welcome to my GitHub profile! 🌟 
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%">
   </p>
+  
+  <p align="center">
+    <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="15%">
+  </p>
 
   <h3 align="center">
     Contact With Me At : 
