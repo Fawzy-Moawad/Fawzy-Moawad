@@ -4,8 +4,9 @@
   </h1>
 
   <p align="center">
-    Welcome to my GitHub profile! 
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="15%">
+    Welcome to my
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%">
+     profile! 
   </p>
   
   <p align="center">
