@@ -66,6 +66,9 @@
 
 </div>
 
+<br/>
+<br/>
+
 <div align="center">
   <h2 align="center">
     When I'm not coding, I'll probably be gaming
