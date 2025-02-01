@@ -34,6 +34,6 @@ Operiting Systems :<br />
 
 Other tools & Technologies :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,redhat,npm,yarn,vim,wordpress,postman,aws,docker,dotnet,vim,stackoverflow,codepen,raspberrypi,discord,notion,obsidian,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,stackoverflow,codepen,raspberrypi,discord,notion,obsidian,ableton)](https://skillicons.dev)
 <br />
 <br />
