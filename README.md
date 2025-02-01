@@ -61,9 +61,9 @@
 </div>
 
 <div align="center">
-  <p align="center">
+  <h3 align="center">
     When I'm not coding, I'll probably be gaming
-  </p>
+  </h3>
   <p align="center">
     <a href="https://www.epicgames.com/store/en-US/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30"       alt="Epic Games logo"/></a>
     <a href="https://www.playstation.com/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30"         alt="PlayStation logo"/></a>
@@ -71,6 +71,6 @@
 </div>
 
 <div align="center">
-  <p align="center">Profile Views</p>
+  <h5 align="center">Profile Views</h5>
   <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg?"  />
 </div>
