@@ -14,8 +14,9 @@ Welcome to my GitHub profile! 🌟
 <p align="center">
   Programming Languages :
   <br/>
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift)](https://skillicons.dev)
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift&perline=4" />
+  </a>
 <br/>
 <br/>
 
