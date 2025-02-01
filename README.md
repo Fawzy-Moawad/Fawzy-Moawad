@@ -14,43 +14,43 @@ Welcome to my GitHub profile! 🌟
 <p align="center">
   Programming Languages :
   <br/>
-<a href="https://skillicons.dev">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift&perline=4" />
   </a>
-<br/>
-<br/>
+</p>
+
 
 <p align="center">
-  Frontend Technologies :<br />
-  <br />
-  [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,jquery,pug)](https://skillicons.dev)
+  Frontend Technologies :
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,jquery,pug&perline=4" />
+  </a>
 </p>
-<br />
-<br />
 
 <p align="center">
-  Backend Technologies :<br />
-  <br />
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql)](https://skillicons.dev)
+  Backend & Database Technologies :
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=4" />
+  </a>
 </p>
-<br />
-<br />
 
 <p align="center">
-  Operiting Systems :<br />
-  <br />
-  [![My Skills](https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple)](https://skillicons.dev)
+  Operiting Systems :
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple&perline=4" />
+  </a>
 </p>
-<br />
-<br />
 
 <p align="center">
-  Other tools & Technologies :<br />
-  <br />
-  [![My Skills](https://skillicons.dev/icons?      i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,vercel,stack  overflow,codepen,raspberrypi,discord,notion,obsidian,ableton)](https://skillicons.dev)
+  Other tools & Technologies :
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,vercel,stack  overflow,codepen,raspberrypi,discord,notion,obsidian,ableton&perline=4" />
+  </a>
 </p>
-<br />
-<br />
 
 <p align="center">
   When I'm not coding, you'll probably find me gaming
