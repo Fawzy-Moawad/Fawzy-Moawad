@@ -80,7 +80,6 @@
 </div>
 
 <br/>
-<br/>
 
 <div align="center">
   <h5 align="center">Profile Views</h5>
