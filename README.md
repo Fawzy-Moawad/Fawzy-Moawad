@@ -1,14 +1,14 @@
-<p align="center">
- // Hi there 👋 I'm Fawzy Moawad !  
-</p>
+<h1 align="center">
+  Hi there 👋 I'm Fawzy Moawad ! 
+</h1>
 
 <p align="center">
   Welcome to my GitHub profile! 🌟 
 </p>
 
-<p align="center">
-  #### Contact With Me At : 
-</p>
+<h4 align="center">
+  Contact With Me At : 
+</h1>
 
 <p align="center">
   <a href="https://fawzymoawad.com/">Fawzy Moawad</a><br />
