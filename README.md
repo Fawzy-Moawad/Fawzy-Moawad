@@ -10,7 +10,7 @@ or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a><br />
 
 Programming Languages :<br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,cs,py,swift)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift)](https://skillicons.dev)
 <br />
 <br />
 
