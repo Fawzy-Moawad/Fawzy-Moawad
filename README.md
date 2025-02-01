@@ -6,7 +6,7 @@
   Welcome to my GitHub profile! 🌟 
 </p>
 
-<h4 align="center">
+<h3 align="center">
   Contact With Me At : 
 </h1>
 
@@ -17,9 +17,9 @@
 </p>
 <br />
 
-<p align="center">
-  ## Skills :
-</p>
+<h3 align="center">
+  Skills :
+</h1>
 
 <p align="center">
   Programming Languages :
