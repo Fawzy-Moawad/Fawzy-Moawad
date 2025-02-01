@@ -38,7 +38,7 @@ Other tools & Technologies :<br />
 <br />
 <br />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-  <a href="https://github.com/AkramKhattab?tab=repositories">Check out my repositories to see what I've been up to!</a>
-</p>
+<div align="center">
+  <p align="center">Profile Views</p>
+  <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg?"  />
+</div>
