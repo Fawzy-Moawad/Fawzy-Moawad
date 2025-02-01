@@ -1,6 +1,15 @@
-## Hi there 👋 I'm Fawzy Moawad !   
-Welcome to my GitHub profile! 🌟
-#### Contact With Me At :
+<p align="center">
+  ## Hi there 👋 I'm Fawzy Moawad !  
+</p>
+
+<p align="center">
+  Welcome to my GitHub profile! 🌟 
+</p>
+
+<p align="center">
+  #### Contact With Me At : 
+</p>
+
 <p align="center">
   <a href="https://fawzymoawad.com/">Fawzy Moawad</a><br />
   <br />
@@ -8,8 +17,9 @@ Welcome to my GitHub profile! 🌟
 </p>
 <br />
 
-## Skills :
-<br />
+<p align="center">
+  ## Skills :
+</p>
 
 <p align="center">
   Programming Languages :
@@ -53,7 +63,7 @@ Welcome to my GitHub profile! 🌟
 </p>
 
 <p align="center">
-  When I'm not coding, you'll probably find me gaming
+  When I'm not coding, I'll probably be gaming
 </p>
 <p align="center">
   <a href="https://www.epicgames.com/store/en-US/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30"   alt="Epic Games logo"/></a>
