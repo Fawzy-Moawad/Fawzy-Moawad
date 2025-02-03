@@ -27,8 +27,6 @@
 <br/>
 <br/>
 
----
-
 <div align="center">
   <h2 align="center">
     Skills :
@@ -87,8 +85,6 @@
 </div>
 
 <br/>
-
----
 
 <div align="center">
   <h5 align="center">Profile Views</h5>
