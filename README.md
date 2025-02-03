@@ -54,7 +54,7 @@
   </a>
 
   <h3 align="center">
-    Operiting Systems :
+    Operating Systems :
   </h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple&perline=4" />
