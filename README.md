@@ -27,6 +27,8 @@
 <br/>
 <br/>
 
+---
+
 <div align="center">
   <h2 align="center">
     Skills :
@@ -72,6 +74,8 @@
 <br/>
 <br/>
 
+---
+
 <div align="center">
   <h3 align="center">
     When I'm not coding, I'll probably be gaming
@@ -83,6 +87,8 @@
 </div>
 
 <br/>
+
+---
 
 <div align="center">
   <h5 align="center">Profile Views</h5>
