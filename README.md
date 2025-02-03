@@ -64,7 +64,7 @@
     Other tools & Technologies :
   </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,docker,dotnet,vim,vercel,stack  overflow,codepen,raspberrypi,discord,notion,obsidian,ableton&perline=4" />
+    <img src="https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,dotnet,vim,vercel,stack  overflow,codepen,raspberrypi,discord,notion,obsidian,ableton&perline=4" />
   </a>
 
 </div>
