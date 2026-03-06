@@ -28,7 +28,11 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## ⚙️ Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,wireshark,docker,git,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,apple&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,postman,wireshark,bash&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,discord,gmail&theme=dark" />
 </p>
 
 ---
