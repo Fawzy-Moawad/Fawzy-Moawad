@@ -22,13 +22,13 @@ I'm a **Cybersecurity Professional** with expertise in Incident Response, Threat
 
 ## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,js,bash,html,css" />
 </p>
 
 ## ⚙️ Tools
 ### Security & Analysis
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,wireshark,splunk,kali,docker,aws&perline=6" />
+  <img src="https://skillicons.dev/icons?i=linux,wireshark,nmap,tcpdump,kali,docker" />
 </p>
 
 ---
