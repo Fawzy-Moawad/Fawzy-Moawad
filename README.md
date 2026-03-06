@@ -74,9 +74,9 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 ## 📫 How to Reach Me
-* 🌐 **Portfolio:** [fawzymoawad.com](https://fawzymoawad.com)
+* 🌐 **Portfolio:** [Fawzy Moawad](https://fawzymoawad.com)
 * 💼 **LinkedIn:** [Fawzy Moawad](https://www.linkedin.com/in/fawzy-moawad/)
-* 📧 **Email:** [info@fawzymoawad.com](mailto:info@fawzymoawad.com)
+* 📧 **Email:** [Fawzy Moawad](mailto:info@fawzymoawad.com)
 
 ---
 
