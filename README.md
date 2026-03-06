@@ -1,4 +1,4 @@
-# Hi there, I'm Fawzy Moawad 👨‍💻👑 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINK_HERE)](YOUR_LINK_HERE)
+# Hi there, I'm Fawzy Moawad 👨‍💻 [![Linkedin Badge](https://www.linkedin.com/in/fawzy-moawad/)](YOUR_LINK_HERE)
 
 ---
 
