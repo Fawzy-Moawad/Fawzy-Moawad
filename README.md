@@ -8,12 +8,12 @@ I am a versatile **Full-Stack Developer** and **Cybersecurity Engineer** with a 
 I focus on vulnerability assessment and compliance standards like **OWASP**. From healthcare to media, I build with a focus on security and usability. Let’s connect and explore how we can create impact together!
 
 ---
-
 ## 🛠 Skills and Tools
 
-* 🛡️ **Incident Response:** Experience in managing and mitigating security incidents.
-* 🔍 **Threat Hunting:** Proficient in identifying and analyzing potential threats.
-* 📊 **SIEM Tools:** Experienced with tools like Splunk, ELK, and Sentinel.
+* 🛡️ **Cybersecurity:** Vulnerability Assessment, Security Policy Development, and OWASP standards.
+* 💻 **Full-Stack Dev:** Building and deploying scalable web apps with a focus on secure coding.
+* 🔍 **Pentesting:** Active learning in threat mitigation and infrastructure security.
+* 🐛 **Bug Bounty:** Actively hunting vulnerabilities and practicing responsible disclosure on platforms like HackerOne and Bugcrowd.
 
 ## 💻 Programming Languages
 <p align="left">
