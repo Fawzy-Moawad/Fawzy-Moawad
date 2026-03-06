@@ -13,7 +13,8 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 * 🛡️ **Cybersecurity:** Vulnerability Assessment, Security Policy Development, and OWASP standards.
 * 💻 **Full-Stack Dev:** Building and deploying scalable web apps with a focus on secure coding.
 * 🔍 **Pentesting:** Active learning in threat mitigation and infrastructure security.
-* 🐛 **Bug Bounty:** Actively hunting vulnerabilities and practicing responsible disclosure on platforms like HackerOne and Bugcrowd.
+* 🐛 **Bug Bounty:** Actively hunting vulnerabilities and practicing responsible disclosure.
+* 📡 **Hardware Hacking:** Researching and developing custom ethical hacking devices for **Wi-Fi** and **Bluetooth** analysis (using ESP32, Raspberry Pi, etc.).
 
 ## 💻 Programming Languages
 <p align="left">
