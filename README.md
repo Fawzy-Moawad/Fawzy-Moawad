@@ -40,7 +40,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## 🗄️ Database 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&theme=dark" />
 </p>
 
 
@@ -93,96 +93,10 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   </a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-  <h3 align="center">
-    Contact With Me At : 
-  </h3>
-
-  <p align="center">
-    <a href="https://fawzymoawad.com/">Fawzy Moawad</a><br />
-    <br />
-    or <a href="https://www.linkedin.com/in/fawzy-moawad/">LinkedIn</a>
-  </p>
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <h2 align="center">
-    Skills :
-  </h2>
-
-  <h3 align="center">
-    Programming Languages :
-  </h3>
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,js,cs,py,swift&perline=4" />
-  </a>
-
-  <h3 align="center">
-    Frontend Technologies :
-  </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs,jquery,pug&perline=4" />
-  </a>
-
-  <h3 align="center">
-    Backend & Database Technologies :
-  </h3>
-  <a href="https://skillicons.dev">
-    
-  </a>
-
-  <h3 align="center">
-    Operating Systems :
-  </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple&perline=4" />
-  </a>
-
-  <h3 align="center">
-    Other tools & Technologies :
-  </h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,powershell,vscode,visualstudio,androidstudio,pycharm,git,github,githubactions,gitlab,docker,kubernetes,ansible,redhat,npm,yarn,wordpress,postman,aws,dotnet,vim,vercel,stack  overflow,codepen,raspberrypi,discord,notion,obsidian,ableton&perline=4" />
-  </a>
-
-</div>
-
-<br/>
-<br/>
-
 ---
 
-<div align="center">
-  
-  
-</div>
-
-<br/>
-
-<div align="center">
-  <h5 align="center">Profile Views</h5>
-  <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg" alt="Fawzy-Moawad's Profile Views" />
+  <br />
+  <b>Profile Views</b>
+</p>
