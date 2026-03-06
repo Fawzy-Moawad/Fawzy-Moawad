@@ -44,7 +44,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 </p>
 
 
-
 ## 🌐 Network Security & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
