@@ -28,11 +28,11 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## ⚙️ Tools & Environment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,apple&theme=dark" />
-  <br/>
   <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/tcpdump-%23222222.svg?style=for-the-badge&logo=terminal&logoColor=white" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,apple&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,docker,postman&theme=dark" />
   <br/>
