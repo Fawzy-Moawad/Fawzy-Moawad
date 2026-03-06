@@ -9,7 +9,7 @@
   
 ---
   
-# Hi there, I'm Fawzy Moawad  AKA **""JackalNull""**👨‍💻 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/)
+# Hi there, I'm Fawzy Moawad  AKA ""JackalNull""👨‍💻 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/)
 
 
 ---
