@@ -73,14 +73,15 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
-##  When I'm not coding, I'll probably be gaming
 <p align="center">
-    <h3 align="center">
-    When I'm not coding, I'll probably be gaming
-    </h3>
-    <a href="https://www.epicgames.com/store/en-US/" target="_blank"><img align="center" src="https://github.com/mishmanners/ MishManners/blob/master/Game%20Icons/Epic.png" height="30"       alt="Epic Games logo"/></a>
-    <a href="https://www.playstation.com/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30"         alt="PlayStation logo"/></a>
-  </p>
+  <h3 align="center">🎮 When I'm not coding, I'll probably be gaming</h3>
+  <a href="https://www.epicgames.com/store/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="35" alt="Epic Games logo" style="margin: 0 10px;" />
+  </a>
+  <a href="https://www.playstation.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="35" alt="PlayStation logo" style="margin: 0 10px;" />
+  </a>
+</p>
 
 
 
