@@ -21,7 +21,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <img src="https://skillicons.dev/icons?i=py,js,bash" />
 </p>
 
-## 💻 Frontend & Backend Frameworks
+## 💻 Frontend & Backend Languages and Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,sol&theme=dark" />
 </p>
