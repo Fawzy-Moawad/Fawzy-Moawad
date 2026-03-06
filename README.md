@@ -28,7 +28,10 @@ I'm a **Cybersecurity Professional** with expertise in Incident Response, Threat
 ## ⚙️ Tools
 ### Security & Analysis
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,wireshark,nmap,tcpdump,kali,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws" />
+  <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/tcpdump-%23222222.svg?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
 
 ---
