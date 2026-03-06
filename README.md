@@ -3,6 +3,9 @@
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%">
      profile! 
   </p>
+  <p align="center">
+    <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="50%">
+  </p>
   
 ---
   
@@ -94,9 +97,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
   
   
-  <p align="center">
-    <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="50%">
-  </p>
+  
 
   <h3 align="center">
     Contact With Me At : 
