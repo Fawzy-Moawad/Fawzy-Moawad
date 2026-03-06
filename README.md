@@ -45,13 +45,14 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
-## 📈 Skills
-| Skill | Associated Project |
+## 📈 Skills & Experience
+| Skill | Practical Application & Focus |
 | :--- | :--- |
-| Malware Analysis | [Malware-Analysis-Repo](#) |
-| Network Monitoring | [Network-Analysis-Project](#) |
-| Threat Intelligence | [Threat-Intel-Feed](#) |
-
+| **Secure Web Development** | Building scalable apps with React/Node.js using OWASP secure coding practices. |
+| **Vulnerability Assessment** | Conducting deep-dive analysis and risk assessment for infrastructure security. |
+| **Hardware Pentesting** | Developing custom ESP32/Raspberry Pi devices for Wi-Fi and Bluetooth auditing. |
+| **Network Security** | Monitoring and analyzing traffic using Nmap, Wireshark, and tcpdump. |
+| **Bug Bounty Hunting** | Identifying and reporting vulnerabilities through responsible disclosure programs. |
 ---
 
 ## 📫 How to Reach Me
