@@ -1,9 +1,11 @@
-# Hi there, I'm Fawzy Moawad 👨‍💻👑 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/)
+# Hi there, I'm Fawzy Moawad 👨‍💻 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/)
 
 
 ---
 
-I'm a **Cybersecurity Professional** with expertise in Incident Response, Threat Hunting, and Digital Forensics. My work revolves around securing environments and creating high-quality technical content. Feel free to explore and connect!
+I am a versatile **Full-Stack Developer** and **Cybersecurity Engineer** with a strong foundation in software development, secure coding, and threat mitigation. With hands-on experience in web technologies and a growing specialization in penetration testing, I bring a unique dual perspective to every project—delivering robust, scalable, and secure digital solutions.
+
+Currently pursuing the **Google Cybersecurity Certificate** and enrolled in the **TryHackMe Pentesting path**, I focus on vulnerability assessment and compliance standards like **OWASP**. From healthcare to media, I build with a focus on security and usability. Let’s connect and explore how we can create impact together!
 
 ---
 
