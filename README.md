@@ -80,14 +80,20 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
-## 🎮 When I'm not coding, I'll probably be gaming
+## 🎨 When I'm not coding, I'll probably be
 
 <p align="center">
-  <a href="https://www.epicgames.com/store/">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="40" alt="Epic Games logo" />
+  <a href="https://www.epicgames.com/store/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="40" alt="Epic Games" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.playstation.com/">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="40" alt="PlayStation logo" />
+  &nbsp;&nbsp;
+  <a href="https://www.playstation.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="40" alt="PlayStation" />
   </a>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pennant,codepen,idea&theme=dark" height="40" alt="Hobbies" />
+</p>
+
+<p align="center">
+  <b>Gaming • Calligraphy • 3D Printing • Reading</b>
 </p>
