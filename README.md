@@ -1,3 +1,66 @@
+# Hi there, I'm Fawzy Moawad 👨‍💻👑 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINK_HERE)](YOUR_LINK_HERE)
+
+---
+
+I'm a **Cybersecurity Professional** with expertise in Incident Response, Threat Hunting, and Digital Forensics. My work revolves around securing environments and creating high-quality technical content. Feel free to explore and connect!
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fawzy-Moawad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzy-Moawad&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🛠 Skills and Tools
+
+* 🛡️ **Incident Response:** Experience in managing and mitigating security incidents.
+* 🔍 **Threat Hunting:** Proficient in identifying and analyzing potential threats.
+* 📊 **SIEM Tools:** Experienced with tools like Splunk, ELK, and Sentinel.
+
+## 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity&theme=dark" />
+</p>
+
+## ⚙️ Tools
+### Security & Analysis
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,wireshark,splunk,kali,docker,aws&perline=6" />
+</p>
+
+---
+
+## 📈 Skills
+| Skill | Associated Project |
+| :--- | :--- |
+| Malware Analysis | [Malware-Analysis-Repo](#) |
+| Network Monitoring | [Network-Analysis-Project](#) |
+| Threat Intelligence | [Threat-Intel-Feed](#) |
+
+---
+
+## 📫 How to Reach Me
+* 📧 **Email:** your-email@example.com
+* 💼 **LinkedIn:** [LinkedIn Profile](your-link)
+* 🐦 **Twitter/X:** [@YourHandle](your-link)
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fawzy-Moawad&theme=tokyonight" />
+</p>
+
+
+
+
+
+
+
+
+
+
 <div align="center">
   <h1 align="center">
     Hi there 👋 I'm Fawzy Moawad ! 
