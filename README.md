@@ -84,14 +84,19 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 <p align="center">
   <a href="https://www.epicgames.com/store/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="40" alt="Epic Games" />
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="35" alt="Epic Games" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.playstation.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="40" alt="PlayStation" />
+    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="35" alt="PlayStation" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pennant,codepen,idea&theme=dark" height="40" alt="Hobbies" />
+  <br />
+  <br />
+  <img src="https://img.shields.io/badge/Calligraphy-🖋️-black?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/3D_Printing-🧊-black?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Reading-📖-black?style=flat-square" />
 </p>
 
 <p align="center">
