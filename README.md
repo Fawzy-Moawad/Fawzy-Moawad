@@ -4,14 +4,6 @@
 
 I'm a **Cybersecurity Professional** with expertise in Incident Response, Threat Hunting, and Digital Forensics. My work revolves around securing environments and creating high-quality technical content. Feel free to explore and connect!
 
-## 🚀 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fawzy-Moawad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawzy-Moawad&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ## 🛠 Skills and Tools
