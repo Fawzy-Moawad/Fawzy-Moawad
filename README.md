@@ -91,11 +91,3 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
     <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="40" alt="PlayStation logo" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Fawzy-Moawad/count.svg" alt="Fawzy-Moawad's Profile Views" />
-  <br />
-  <b>Profile Views</b>
-</p>
