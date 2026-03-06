@@ -1,3 +1,11 @@
+<p align="center">
+    Welcome to my
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%">
+     profile! 
+  </p>
+  
+---
+  
 # Hi there, I'm Fawzy Moawad 👨‍💻 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/)
 
 
@@ -74,16 +82,17 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 
 
-<div align="center">
-  <h1 align="center">
-    Hi there 👋 I'm Fawzy Moawad ! 
-  </h1>
 
-  <p align="center">
-    Welcome to my
-    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%">
-     profile! 
-  </p>
+
+
+
+
+
+
+
+
+
+  
   
   <p align="center">
     <img src="https://media.giphy.com/media/ACzsN9dhQuOZ6RYXcM/giphy.gif" width="50%">
