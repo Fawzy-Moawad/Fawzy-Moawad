@@ -63,6 +63,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 | **Hardware Pentesting** | Developing custom ESP32/Raspberry Pi devices for Wi-Fi and Bluetooth auditing. |
 | **Network Security** | Monitoring and analyzing traffic using Nmap, Wireshark, and tcpdump. |
 | **Bug Bounty Hunting** | Identifying and reporting vulnerabilities through responsible disclosure programs. |
+
 ---
 
 ## 📫 How to Reach Me
@@ -70,12 +71,16 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 * 💼 **LinkedIn:** [LinkedIn Profile](your-link)
 * 🐦 **Twitter/X:** [@YourHandle](your-link)
 
-## 🏆 GitHub Trophies
+---
+
+##  When I'm not coding, I'll probably be gaming
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fawzy-Moawad&theme=tokyonight" />
-</p>
-
-
+    <h3 align="center">
+    When I'm not coding, I'll probably be gaming
+    </h3>
+    <a href="https://www.epicgames.com/store/en-US/" target="_blank"><img align="center" src="https://github.com/mishmanners/ MishManners/blob/master/Game%20Icons/Epic.png" height="30"       alt="Epic Games logo"/></a>
+    <a href="https://www.playstation.com/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30"         alt="PlayStation logo"/></a>
+  </p>
 
 
 
@@ -160,13 +165,8 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 <div align="center">
-  <h3 align="center">
-    When I'm not coding, I'll probably be gaming
-  </h3>
-  <p align="center">
-    <a href="https://www.epicgames.com/store/en-US/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30"       alt="Epic Games logo"/></a>
-    <a href="https://www.playstation.com/" target="_blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30"         alt="PlayStation logo"/></a>
-  </p>
+  
+  
 </div>
 
 <br/>
