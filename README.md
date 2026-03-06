@@ -18,12 +18,12 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,bash,html,css" />
+  <img src="https://skillicons.dev/icons?i=py,js,bash" />
 </p>
 
 ## 💻 Frontend & Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,sol&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,sol&theme=dark" />
 </p>
 
 ## ⚙️ Tools & Environment
