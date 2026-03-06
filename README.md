@@ -37,6 +37,14 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,nodejs,sol&theme=dark" />
 </p>
 
+
+## 🗄️ Database 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,nodejs&theme=dark" />
+</p>
+
+
+
 ## 🌐 Network Security & Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -67,20 +75,20 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 ## 📫 How to Reach Me
-* 📧 **Email:** your-email@example.com
-* 💼 **LinkedIn:** [LinkedIn Profile](your-link)
-* 🐦 **Twitter/X:** [@YourHandle](your-link)
+* 📧 **Email:** [info@fawzymoawad.com](mailto:info@fawzymoawad.com)
+* 💼 **LinkedIn:** [Fawzy Moawad](https://www.linkedin.com/in/fawzy-moawad/)
+* 🌐 **Portfolio:** [fawzymoawad.com](https://fawzymoawad.com)
 
 ---
 
 ## 🎮 When I'm not coding, I'll probably be gaming
 
 <p align="center">
-  <a href="https://www.epicgames.com/store/" target="_blank">
+  <a href="https://www.epicgames.com/store/">
     <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="40" alt="Epic Games logo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.playstation.com/" target="_blank">
+  <a href="https://www.playstation.com/">
     <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="40" alt="PlayStation logo" />
   </a>
 </p>
@@ -143,7 +151,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
     Backend & Database Technologies :
   </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql&perline=4" />
+    
   </a>
 
   <h3 align="center">
