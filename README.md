@@ -21,13 +21,14 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <img src="https://skillicons.dev/icons?i=py,js,bash,html,css" />
 </p>
 
-## ⚙️ Tools
-### Security & Analysis
+## 💻 Frontend & Backend Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,aws" />
-  <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/tcpdump-%23222222.svg?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nodejs,sol&theme=dark" />
+</p>
+
+## ⚙️ Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,kali,wireshark,docker,git,vscode&theme=dark" />
 </p>
 
 ---
