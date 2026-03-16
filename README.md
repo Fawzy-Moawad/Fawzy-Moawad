@@ -87,9 +87,9 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" height="45">
   </a>
   <a href="https://app.hackthebox.com/users/3229162">
-    <img src="https://www.hackthebox.eu/badge/image/3229162" alt="HackTheBox" height="45">
+    <img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" height="45">
   </a>
-  <a href="https://portswigger.net/users/jackalnull">
+  <a href="https://portswigger.net/web-security/dashboard">
     <img src="https://img.shields.io/badge/PortSwigger-Profile-ff6633?style=for-the-badge&logo=portswigger&logoColor=white" alt="PortSwigger" height="45">
   </a>
   <a href="https://hackerone.com/jackalnull-3738?type=user">
