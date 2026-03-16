@@ -119,6 +119,8 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
+---
+
 <p align="center">
   <br />
   ## 🎨 When I'm not coding, I'll probably be
@@ -132,5 +134,5 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <br /><br />
   <b>Gaming • Calligraphy • 3D Printing • Reading</b>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=392b58,5e81ac&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=706fd3&secondaryColor=4b7bec&height=120&section=footer" alt="Footer Wave" />
 </p>
