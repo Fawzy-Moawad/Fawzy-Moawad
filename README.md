@@ -53,7 +53,18 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <img src="https://img.shields.io/badge/nmap-%234F5D95.svg?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/tcpdump-%23222222.svg?style=for-the-badge&logo=terminal&logoColor=white" />
-  <br/>
+</p>
+
+## 🛠️ Pentesting & Exploitation Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-747474?style=for-the-badge&logo=hashcat&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-555555?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/CyberChef-FF9900?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
 </p>
 
 ## ⚙️ Tools & Environment
