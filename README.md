@@ -118,9 +118,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
-
----
-
 <p align="center">
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A56719&height=200&section=footer&text=🎨%20When%20I'm%20not%20coding,%20I'll%20probably%20be&fontSize=30&desc=Gaming%20•%20Calligraphy%20•%203D%20Printing%20•%20Reading&descSize=20&descAlignY=65" alt="Unified Footer Banner" />
