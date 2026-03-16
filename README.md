@@ -116,27 +116,20 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <br />
 </p>
 
+
 ---
 
-## 🎨 When I'm not coding, I'll probably be
-
 <p align="center">
-  <a href="https://www.epicgames.com/store/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/Epic.png" height="35" alt="Epic Games" />
-  </a>
-  &nbsp;
-  <a href="https://www.playstation.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/mishmanners/mishmanners/master/Game%20Icons/PS.png" height="35" alt="PlayStation" />
-  </a>
+  ## 🎨 When I'm not coding, I'll probably be
   <br />
-  <br />
-  <img src="https://img.shields.io/badge/Calligraphy-🖋️-black?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/3D_Printing-🧊-black?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Reading-📖-black?style=flat-square" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Gaming-181717?style=for-the-badge&logo=epic-games&logoColor=white" height="35">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="35">
+  <br /><br />
+  <img src="https://img.shields.io/badge/Calligraphy-🖋️-black?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/3D_Printing-🧊-black?style=flat-square" height="25">
+  <img src="https://img.shields.io/badge/Reading-📖-black?style=flat-square" height="25">
+  <br /><br />
   <b>Gaming • Calligraphy • 3D Printing • Reading</b>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" alt="Footer Wave" />
 </p>
