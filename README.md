@@ -120,8 +120,8 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 <p align="center">
-  ## 🎨 When I'm not coding, I'll probably be
   <br />
+  ## 🎨 When I'm not coding, I'll probably be
   <img src="https://img.shields.io/badge/Gaming-181717?style=for-the-badge&logo=epic-games&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="35">
   <br /><br />
