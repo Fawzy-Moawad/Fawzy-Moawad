@@ -17,10 +17,14 @@
 
 
 ---
+  
+# I'm Fawzy Moawad AKA "JackalNull" 👨‍💻 [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fawzy-moawad/) [![Portfolio Badge](https://img.shields.io/badge/-PORTFOLIO-black?style=flat-square&logo=google-chrome&logoColor=white)](https://fawzymoawad.com)
 
-I am a versatile **Full-Stack Developer** and **Cybersecurity Engineer** with a strong foundation in software development, secure coding, and threat mitigation. With hands-on experience in web technologies and a growing specialization in penetration testing and bug bounty, I bring a unique dual perspective to every project—delivering robust, scalable, and secure digital solutions.
+---
 
-I focus on vulnerability assessment and compliance standards like **OWASP**. From healthcare to media, I build with a focus on security and usability. Let’s connect and explore how we can create impact together!
+I am a versatile **Full-Stack Developer**, **WordPress Developer**, and **Cybersecurity Engineer** with a strong foundation in software development, secure coding, and threat mitigation. With hands-on experience in web technologies and a growing specialization in penetration testing and bug bounty, I bring a unique dual perspective to every project—delivering robust, scalable, and secure digital solutions.
+
+I focus on vulnerability assessment and compliance standards like **OWASP**. From healthcare to media, I build with a focus on security and usability—whether I'm developing custom themes and plugins in WordPress or architecting complex web systems. Let’s connect and explore how we can create impact together!
 
 ---
 ## 🛠 Skills and Tools
