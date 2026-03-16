@@ -110,13 +110,12 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   </a>
 </p>
 
+---
 <p align="center">
   <br />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Man%20is%20least%20himself%20when%20he%20talks%20in%20his%20own%20person.%20Give%20him%20a%20mask,%20and%20he%20will%20tell%20you%20the%20truth.&author=Vendetta" alt="Vendetta Quote Card" />
   <br />
 </p>
-
----
 
 <p align="center">
   <br />
