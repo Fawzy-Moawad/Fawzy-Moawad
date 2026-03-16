@@ -102,7 +102,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
   </a>
   <a href="mailto:info@fawzymoawad.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="40">
   </a>
 </p>
 
