@@ -73,13 +73,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ---
 
-## 📫 How to Reach Me
-* 🌐 **Portfolio:** [Fawzy Moawad](https://fawzymoawad.com)
-* 💼 **LinkedIn:** [Fawzy Moawad](https://www.linkedin.com/in/fawzy-moawad/)
-* 📧 **Email:** [Fawzy Moawad](mailto:info@fawzymoawad.com)
-
----
-
 ## 🛡️ Cybersecurity Profiles
 
 <p align="left">
@@ -96,6 +89,13 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
     <img src="https://img.shields.io/badge/HackerOne-Profile-2491ff?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" height="45">
   </a>
 </p>
+
+---
+
+## 📫 How to Reach Me
+* 🌐 **Portfolio:** [Fawzy Moawad](https://fawzymoawad.com)
+* 💼 **LinkedIn:** [Fawzy Moawad](https://www.linkedin.com/in/fawzy-moawad/)
+* 📧 **Email:** [Fawzy Moawad](mailto:info@fawzymoawad.com)
 
 ---
 
