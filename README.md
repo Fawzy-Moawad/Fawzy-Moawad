@@ -83,7 +83,11 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ## My Try Hack Me Account
 
 <a href="https://tryhackme.com/p/JackalNull">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="TryHackMe">
+</a>
+
+<a href="[https://tryhackme.com/p/JackalNull](https://app.hackthebox.com/users/3229162)">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="HackTheBox">
 </a>
 
 ---
