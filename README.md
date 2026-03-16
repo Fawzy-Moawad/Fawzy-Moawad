@@ -93,7 +93,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 ## 📫 How to Reach Me
-## 🔗 Connect
 
 <p align="center">
   <a href="https://fawzymoawad.com">
@@ -101,9 +100,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   </a>
   <a href="https://www.linkedin.com/in/fawzy-moawad/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40">
   </a>
   <a href="mailto:info@fawzymoawad.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40">
