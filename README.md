@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JackalNull&fontSize=70" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A56719&height=200&section=header&text=JackalNull&fontSize=70" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -120,16 +120,5 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 <p align="center">
   <br />
-  ## 🎨 When I'm not coding, I'll probably be
-  <br />
-  <img src="https://img.shields.io/badge/Gaming-181717?style=for-the-badge&logo=epic-games&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="35">
-  <br /><br />
-  <img src="https://img.shields.io/badge/Calligraphy-🖋️-black?style=flat-square" height="25">
-  <img src="https://img.shields.io/badge/3D_Printing-🧊-black?style=flat-square" height="25">
-  <img src="https://img.shields.io/badge/Reading-📖-black?style=flat-square" height="25">
-  <br /><br />
-  <b>Gaming • Calligraphy • 3D Printing • Reading</b>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=706fd3&secondaryColor=4b7bec&height=120&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A56719&text=Gaming%20•%20Calligraphy%20•%203D%20Printing%20•%20Reading&fontSize=25&height=150&section=footer" alt="Footer Banner" />
 </p>
