@@ -84,10 +84,10 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 <p align="left">
   <a href="https://tryhackme.com/p/JackalNull">
-    <img src="https://tryhackme-badge.vercel.app/api/6426574" alt="TryHackMe" height="150">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="TryHackMe" height="130">
   </a>
   <a href="https://app.hackthebox.com/users/3229162">
-    <img src="https://www.hackthebox.eu/badge/image/3229162" alt="HackTheBox" height="150">
+    <img src="https://www.hackthebox.eu/badge/image/3229162" alt="HackTheBox" height="130">
   </a>
 </p>
 
