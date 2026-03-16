@@ -82,12 +82,14 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## 🛡️ Cybersecurity Profiles
 
+## 🛡️ Cybersecurity Profiles
+
 <p align="left">
   <a href="https://tryhackme.com/p/JackalNull">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="TryHackMe" height="130">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/JackalNull.png" alt="TryHackMe" height="140">
   </a>
   <a href="https://app.hackthebox.com/users/3229162">
-    <img src="https://www.hackthebox.eu/badge/image/3229162" alt="HackTheBox" height="130">
+    <img src="https://www.hackthebox.eu/badge/image/3229162" alt="HackTheBox" height="140">
   </a>
 </p>
 
