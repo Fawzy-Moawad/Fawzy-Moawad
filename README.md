@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JackalNull&fontSize=70" alt="Header Banner" />
+</p>
+
+<p align="center">
     Welcome to my
     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="5%">
      profile! 
