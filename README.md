@@ -82,7 +82,7 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 ## My Try Hack Me Account
 
-[![TryHackMe Badge](https://tryhackme-badges.vercel.app/api/v1/6426574/badge)](https://tryhackme.com/p/VHFG22)
+<a href="https://tryhackme.com/p/VHFG22"><img src="https://tryhackme-badges.vercel.app/api/v1/VHFG22/badge" alt="TryHackMe Badge"></a>
 
 ---
 
