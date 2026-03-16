@@ -116,9 +116,6 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
   <br />
 </p>
 
-
----
-
 ---
 
 <p align="center">
