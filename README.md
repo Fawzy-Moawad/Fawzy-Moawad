@@ -108,9 +108,8 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 
 <p align="center">
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20the%20blueprint,%20infrastructure%20is%20the%20foundation,%20and%20security%20is%20the%20armor.&author=-%20Naveed%20Sohail%20Gung" alt="Quote Card" />
-  <br /><br />
-  <strong>We are the Keyboard Cowboys.</strong>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=We%20are%20the%20Keyboard%20Cowboys.&author=JackalNull" alt="Keyboard Cowboys Quote" />
+  <br />
 </p>
 
 ---
