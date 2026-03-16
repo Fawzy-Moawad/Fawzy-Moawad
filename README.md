@@ -119,16 +119,9 @@ I focus on vulnerability assessment and compliance standards like **OWASP**. Fro
 ---
 
 
+---
+
 <p align="center">
   <br />
-  ## 🎨 When I'm not coding, I'll probably be
-  <br />
-  <img src="https://img.shields.io/badge/Gaming-181717?style=for-the-badge&logo=epic-games&logoColor=white" height="35">
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" height="35">
-  <br /><br />
-  <img src="https://img.shields.io/badge/Calligraphy-🖋️-black?style=flat-square" height="25">
-  <img src="https://img.shields.io/badge/3D_Printing-🧊-black?style=flat-square" height="25">
-  <img src="https://img.shields.io/badge/Reading-📖-black?style=flat-square" height="25">
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=A56719&text=Gaming%20•%20Calligraphy%20•%203D%20Printing%20•%20Reading&fontSize=25&height=150&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A56719&height=200&section=footer&text=🎨%20When%20I'm%20not%20coding,%20I'll%20probably%20be&fontSize=30&desc=Gaming%20•%20Calligraphy%20•%203D%20Printing%20•%20Reading&descSize=20&descAlignY=65" alt="Unified Footer Banner" />
 </p>
